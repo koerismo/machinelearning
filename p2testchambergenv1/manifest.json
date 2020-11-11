@@ -1,6 +1,6 @@
 {
     "description": "Generate Portal 2 Levels",
-    "model": "SmoothedGenerator_15000_tfjs/model.json",
+    "model": "SmoothedGenerator_10000_tfjs/model.json",
     "modelSize": 64,
     "modelLatentDim": 128
 }
